@@ -1,4 +1,4 @@
-# RepoRocket README  
+![RepoRocket](/images/RepoRocket.png)  
 ## What is it?  
 RepoRocket is a Bash funtion to easily create a new repository from existing local commits.
 
